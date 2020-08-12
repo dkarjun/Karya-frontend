@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+#header { 
+  width: 100%;
+  position: absolute;
+  background-color: grey;
+  height: 70px;
+  border-style: solid;
+  border-color: black;
+}

@@ -1,0 +1,48 @@
+.card {
+  border-style: solid;
+  border-color: black;
+  border-style: solid;
+  border-color: black;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 84px;
+  border-radius: 20px
+}
+
+#dash {
+  float: left;
+  margin-top: 72px;
+  margin-left: 25.5%;
+  position: fixed;
+  width: 50%;
+  height: 100%; 
+  border-style: solid;
+  border-color: black;
+}
+
+.listout {
+  float: left;
+  margin-top: 72px;
+  position: fixed;
+  width: 25%;
+  height: 100%;
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+  overflow: auto
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#time {
+  right: 0px;
+}
+
+#taskForm {
+  text-align: left;
+  margin-left: 44px;
+  margin-right: 44px;
+}
